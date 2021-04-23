@@ -1,1 +1,1 @@
-{"server":"localhost:3000","sig":"foobar"}
+{"status":"enabled","server":"localhost:3000","sig":"foobar"}
